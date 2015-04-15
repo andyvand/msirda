@@ -1,0 +1,28 @@
+
+1 VERSIONINFO
+FILEVERSION 5,2,0,11
+PRODUCTVERSION 1,0,0,0
+FILEOS 0x40004
+FILETYPE 0x3
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "000004B0"
+	{
+		VALUE "CompanyName", "National Semiconductor Corporation"
+		VALUE "FileDescription", "NSC Fast Infrared Driver."
+		VALUE "FileVersion", "5,02,00,011 (longhorn_rtm.080118-1840)"
+		VALUE "InternalName", "nscirda.sys"
+		VALUE "LegalCopyright", "©1996-2002 National Semiconductor © Microsoft Corp."
+		VALUE "OriginalFilename", "nscirda.sys"
+		VALUE "ProductName", "NSC Fast Infrared Driver."
+		VALUE "ProductVersion", "1,0,0,0"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0000 0x04B0
+}
+}
+

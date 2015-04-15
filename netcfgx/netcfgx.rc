@@ -1,0 +1,58 @@
+1 MUI "Data_1.bin"
+
+31006 REGISTRY "Data_2.bin"
+
+31009 REGISTRY "Data_3.bin"
+
+31021 REGISTRY "Data_4.bin"
+
+30302 BITMAP "Bitmap_1.bmp"
+
+30303 BITMAP "Bitmap_2.bmp"
+
+1401 ICON "Icon_1.ico"
+
+30102 ICON "Icon_2.ico"
+
+30103 ICON "Icon_3.ico"
+
+30104 ICON "Icon_4.ico"
+
+30106 ICON "Icon_5.ico"
+
+30107 ICON "Icon_6.ico"
+
+30108 ICON "Icon_7.ico"
+
+30300 ICON "Icon_8.ico"
+
+30301 ICON "Icon_9.ico"
+
+
+1 VERSIONINFO
+FILEVERSION 6,1,7601,17514
+PRODUCTVERSION 6,1,7601,17514
+FILEOS 0x40004
+FILETYPE 0x2
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "040904B0"
+	{
+		VALUE "CompanyName", "Microsoft Corporation"
+		VALUE "FileDescription", "Network Configuration Objects"
+		VALUE "FileVersion", "6.1.7601.17514 (win7sp1_rtm.101119-1850)"
+		VALUE "InternalName", "netcfgx.dll"
+		VALUE "LegalCopyright", "© Microsoft Corporation. All rights reserved."
+		VALUE "OriginalFilename", "netcfgx.dll"
+		VALUE "ProductName", "Microsoft® Windows® Operating System"
+		VALUE "ProductVersion", "6.1.7601.17514"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0409 0x04B0
+}
+}
+

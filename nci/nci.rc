@@ -1,0 +1,30 @@
+1 MUI "Data_1.bin"
+
+
+1 VERSIONINFO
+FILEVERSION 6,1,7601,17514
+PRODUCTVERSION 6,1,7601,17514
+FILEOS 0x40004
+FILETYPE 0x2
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "040904B0"
+	{
+		VALUE "CompanyName", "Microsoft Corporation"
+		VALUE "FileDescription", "CoInstaller: NET"
+		VALUE "FileVersion", "6.1.7601.17514 (win7sp1_rtm.101119-1850)"
+		VALUE "InternalName", "nci.DLL"
+		VALUE "LegalCopyright", "© Microsoft Corporation. All rights reserved."
+		VALUE "OriginalFilename", "nci.DLL"
+		VALUE "ProductName", "Microsoft® Windows® Operating System"
+		VALUE "ProductVersion", "6.1.7601.17514"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0409 0x04B0
+}
+}
+

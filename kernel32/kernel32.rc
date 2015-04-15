@@ -1,0 +1,30 @@
+1 MUI "Data_1.bin"
+
+
+1 VERSIONINFO
+FILEVERSION 6,1,7601,18409
+PRODUCTVERSION 6,1,7601,18409
+FILEOS 0x40004
+FILETYPE 0x2
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "040904B0"
+	{
+		VALUE "CompanyName", "Microsoft Corporation"
+		VALUE "FileDescription", "Windows NT BASE API Client DLL"
+		VALUE "FileVersion", "6.1.7601.18409 (win7sp1_gdr.140303-2144)"
+		VALUE "InternalName", "kernel32"
+		VALUE "LegalCopyright", "© Microsoft Corporation. All rights reserved."
+		VALUE "OriginalFilename", "kernel32"
+		VALUE "ProductName", "Microsoft® Windows® Operating System"
+		VALUE "ProductVersion", "6.1.7601.18409"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0409 0x04B0
+}
+}
+

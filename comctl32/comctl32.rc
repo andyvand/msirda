@@ -1,0 +1,94 @@
+1 MUI "Data_1.bin"
+
+120 BITMAP "Bitmap_1.bmp"
+
+121 BITMAP "Bitmap_2.bmp"
+
+124 BITMAP "Bitmap_3.bmp"
+
+125 BITMAP "Bitmap_4.bmp"
+
+130 BITMAP "Bitmap_5.bmp"
+
+131 BITMAP "Bitmap_6.bmp"
+
+132 BITMAP "Bitmap_7.bmp"
+
+133 BITMAP "Bitmap_8.bmp"
+
+134 BITMAP "Bitmap_9.bmp"
+
+140 BITMAP "Bitmap_10.bmp"
+
+102 CURSOR "Cursor_1.cur"
+
+104 CURSOR "Cursor_2.cur"
+
+105 CURSOR "Cursor_3.cur"
+
+106 CURSOR "Cursor_4.cur"
+
+107 CURSOR "Cursor_5.cur"
+
+108 CURSOR "Cursor_6.cur"
+
+109 CURSOR "Cursor_7.cur"
+
+110 CURSOR "Cursor_8.cur"
+
+111 CURSOR "Cursor_9.cur"
+
+112 CURSOR "Cursor_10.cur"
+
+113 CURSOR "Cursor_11.cur"
+
+114 CURSOR "Cursor_12.cur"
+
+115 CURSOR "Cursor_13.cur"
+
+116 CURSOR "Cursor_14.cur"
+
+117 CURSOR "Cursor_15.cur"
+
+118 CURSOR "Cursor_16.cur"
+
+119 CURSOR "Cursor_17.cur"
+
+135 CURSOR "Cursor_18.cur"
+
+150 ICON "Icon_1.ico"
+
+20480 ICON "Icon_2.ico"
+
+20481 ICON "Icon_3.ico"
+
+20482 ICON "Icon_4.ico"
+
+
+1 VERSIONINFO
+FILEVERSION 5,82,7601,18201
+PRODUCTVERSION 6,1,7601,18201
+FILEOS 0x40004
+FILETYPE 0x2
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "040904B0"
+	{
+		VALUE "CompanyName", "Microsoft Corporation"
+		VALUE "FileDescription", "Common Controls Library"
+		VALUE "FileVersion", "5.82 (win7sp1_gdr.130703-2233)"
+		VALUE "InternalName", "COMCTL32"
+		VALUE "LegalCopyright", "© Microsoft Corporation. All rights reserved."
+		VALUE "OriginalFilename", "COMCTL32.DLL"
+		VALUE "ProductName", "Microsoft® Windows® Operating System"
+		VALUE "ProductVersion", "6.1.7601.18201"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0409 0x04B0
+}
+}
+
